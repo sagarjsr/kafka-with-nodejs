@@ -18,7 +18,7 @@ function queueMsg() {
   const event = { category, noise };
   const result = stream.write(eventTypes.toBuffer(event));
   if (result) {
-    console.log("msg wrote successfully to stream", result);
+    console.log("message written successfully to stream", result);
   } else {
     console.log("something went wrong");
   }

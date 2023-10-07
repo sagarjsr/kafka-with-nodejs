@@ -56,3 +56,10 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 * `./scripts/create-topic.sh` - creates kafka topic.
 * `npm run start:producer` - starts producer.
 * `npm run start:consumer` - starts consumer.
+
+
+<img
+  src="./screenshot/img.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 1000px">
