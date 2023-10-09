@@ -58,4 +58,4 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 * `npm run start:consumer` - starts consumer.
 
 
-![screenshot](https://github.com/sagarjsr/node-kafka-producer-consumer/blob/master/screenshot/img.png)
+![Screenshot](https://github.com/sagarjsr/node-kafka-producer-consumer/blob/master/screenshot/img.png)
